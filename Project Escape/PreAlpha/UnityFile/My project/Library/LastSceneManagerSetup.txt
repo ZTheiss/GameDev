@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
+- path: S:/Unity/Betrayal/GameDev/Project Escape/PreAlpha/UnityFile/ProjectEscape/Assets/Scenes/Experimental.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
